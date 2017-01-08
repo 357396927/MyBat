@@ -1,0 +1,1 @@
+start "" "H:\Soft\cmd\cmder_mini\Cmder.exe"
